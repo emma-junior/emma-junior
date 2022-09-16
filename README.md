@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋 I'm Eze Emmanuel</h3>
 
-<!--
-**emma-junior/emma-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/eze-emmanuel-355897237/">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Welcome+to+my+github;I+am+a+Frontend+Developer,;and+Aspiring+FullStack+Developer.;Nice+to+meet+you!...)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am a Frontend Web Developer with experience using Javascript(React)
+- 🌱 I’m currently working as a frontend developer at Readsity
+- 👯 I’m looking to collaborate on Web Projects(Frontend and Backend) involving React JS, Next Js and node Js
+- 📫 How to reach me: emnzboy31@gmail.com
+- 💬 Ask me about web development
