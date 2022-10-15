@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋 I'm Eze Emmanuel</h3>
+<h3 align="center"> Hi there 👋 I'm Emmanuel Eze</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eze-emmanuel-355897237/">LinkedIn</a>
@@ -9,5 +9,5 @@
 - 🔭 I am a Frontend Web Developer with experience using Javascript(React)
 - 🌱 I’m currently working as a frontend developer at Readsity
 - 👯 I’m looking to collaborate on Web Projects(Frontend and Backend) involving React JS, Next Js and node Js
-- 📫 How to reach me: emnzboy31@gmail.com
+- 📫 How to reach me: emma.c.techy@gmail.com
 - 💬 Ask me about web development
