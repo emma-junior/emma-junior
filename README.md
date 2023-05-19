@@ -3,9 +3,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/eze-emmanuel-355897237/">LinkedIn</a>
 </p>
-<p align="center">
+
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Welcome+to+my+github;I+am+a+Frontend+Developer,;and+Aspiring+FullStack+Developer.;Nice+to+meet+you!...)](https://git.io/typing-svg)
- </p>
+</div>
 
 - 🔭 I am a Frontend Web Developer with experience using Javascript(React)
 - 🌱 I’m currently working on a <a href="https://emken.vercel.app/">Medical emergency app</a>
