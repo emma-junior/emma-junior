@@ -13,6 +13,7 @@
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
+
 - 🔭 I’m currently working on acquiring DSA skills,
 - 🌱 I’m currently exploring Fullstack development,
 - 💬 Ask me about JavaScript, CSS, React and anything about Football⚽,
