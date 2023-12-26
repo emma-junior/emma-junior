@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://emmatechy.vercel.app/thumbnail.png" width="100%" />  
-  <h1 align="center"><a href="https://codewonders.dev">I'm Eze Emmanuel</a></h1>
+  <h1 align="center"><a href="https://emmatechy.vercel.app/">I'm Eze Emmanuel</a></h1>
   <p align="center"> Frontend developer, JavaScript engineer and Tech enthusiast</p>
 </p>
 
